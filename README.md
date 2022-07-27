@@ -6,6 +6,7 @@ Download image with Pack and Downloads count and copy path of it from flat icon 
 
 ## 🤔 How It's Work?
 
+- Type `+` to end of the query to see more results.
 - Search `query` on flaticon (for more specific settings, change shape or order_by in `main.py`)
 - Creates `flaticon` folder to `HOME` directory and store every query it's own folder
 - Download all image results if it's not exists
