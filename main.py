@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from asyncio import run
 
 from alfred import Client as AlfredClient
